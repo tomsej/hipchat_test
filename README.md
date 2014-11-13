@@ -1,2 +1,1 @@
-tohle je ukázka :)
-tohle je zmena.
+tohle je ukázk
